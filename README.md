@@ -69,7 +69,7 @@ To install BeautifulSoup please go to [BeautifulSoup documentation](https://www.
 
 
 
-Scraping websites is 
+The analysis takes us to learning how meaningful and relevant data is scraped from websites.It mainly focuses on scraping cellphone data from Flipkart's websites using `BeautifulSoup` library- Python web scraper.Data regarding model name, price & ratings are scraped,cleaned & stored  in csv files for further use.
 
 
 
