@@ -6,9 +6,7 @@
   
 Scrape in general means dragging or extracting something from jumbled things.
 <br/>
-<br/>
-
-Web Scraping conveys the same meaning & gives us wonderful opportunity to extract data from website we want so that we can use the data for further analysis.
+Web Scraping conveys the same meaning & gives us wonderful opportunity to extract data from website we want.A web scraping program is developed to meet the requirements of certain businesses where huge data resources are required. The program will extract data quickly, appropriately, and in an organised way without any error. This is because web scrapers are programmed to navigate through multiple web pages, extract relevant data from the pages, and save the data properly for future use.
 
 
 
@@ -64,11 +62,14 @@ To install BeautifulSoup please go to [BeautifulSoup documentation](https://www.
 
 
 <p align="center">
-  <img src="https://github.com/rakeshdatascience/Web-Scraping/blob/master/Scraping_Flipkart_Website/Images/nexus-6-pre-order.jpg",alt="neofetch" align="left" height="160px">
+  <img src="https://github.com/rakeshdatascience/Web-Scraping/blob/master/Scraping_Flipkart_Website/Images/nexus-6-pre-order.jpg",alt="neofetch" align="left" height="190px">
   </p>
 
 
 
+
+
+Scraping websites is 
 
 
 
