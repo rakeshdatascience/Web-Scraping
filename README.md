@@ -41,9 +41,7 @@ Python is a beautiful gift for Data Analysts.It has a nice library called `Beaut
 To install BeautifulSoup please go to [BeautifulSoup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
 
 
-<p align="center">
-  <img src="https://github.com/rakeshdatascience/Web-Scraping/blob/master/Scraping_Flipkart_Website/Images/beautifulsoup-title-graphic.jpg",alt="neofetch" align="left" height="160px">
-  </p>
+
 
 
 
