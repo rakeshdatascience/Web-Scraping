@@ -1,7 +1,7 @@
 ## Web Scraping
 
 <p align="center">
-  <img src="web%20scraping/Images/web-scraping-demystified.png",alt="neofetch" align="left" height="160px">
+  <img src="https://github.com/rakeshdatascience/Web-Scraping/blob/master/Scraping_Flipkart_Website/Images/web-scraping-demystified.png",alt="neofetch" align="left" height="160px">
   </p>
   
 Scrape in general means dragging or extracting something from jumbled things.
@@ -29,7 +29,7 @@ Web Scraping conveys the same meaning & gives us wonderful opportunity to extrac
 <br/>
 
 <p align="center">
-  <img src="web%20scraping/Images/beautifulsoup-title-graphic.jpg",alt="neofetch" align="left" height="160px">
+  <img src="https://github.com/rakeshdatascience/Web-Scraping/blob/master/Scraping_Flipkart_Website/Images/beautifulsoup-title-graphic.jpg",alt="neofetch" align="left" height="160px">
   </p>
 
 Python is a beautiful gift for Data Analysts.It has a nice library called `BeautifulSoup` that offers an effortless way of scraping data from any websites.
